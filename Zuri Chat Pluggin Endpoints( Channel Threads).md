@@ -3,7 +3,7 @@
 #### Made by team Coelho
 Developer Contact: team-coelho@zuri.chat
 
-Getting started with the thread endpoint is easy, all you need to do is to first get authenticated and then arrange your url parameters and lastly your request payload in proper order as shown below. You can then make the various allowed requests and your should be successful.
+Getting started with the thread endpoint is easy, all you need to do is to first get authenticated and then arrange your url parameters and lastly your request payload in proper order as shown below. You can then make the various allowed requests and your request should be successful.
 
 Contact Support: Email:team-coelho@zuri.chat
 ### Authentication:
