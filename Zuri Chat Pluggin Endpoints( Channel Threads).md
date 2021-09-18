@@ -45,7 +45,7 @@ Format type : raw(json)
     
 ```sh
 {
-    "user_id*:"string"
+    "user_id*":"string"
     "content": "string",
     "files*":[
         "string"
